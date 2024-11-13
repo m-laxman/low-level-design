@@ -60,7 +60,7 @@ public:
 class Invoice
 {
 private:
-    Marker marker;
+    Marker marker; //Invoice has a Marker
     int quantity;
 
 public:
