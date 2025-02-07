@@ -10,7 +10,7 @@
     The Bicycle class breaks the Liskov principle primarily because it does not
     have an engine.
 
-    Please check Marker_S.cpp for the Single Responsibility Principle.
+    Please check Vehicle_S.cpp for the Liskov Substitution Principle.
 */
 
 #include <bits/stdc++.h>
