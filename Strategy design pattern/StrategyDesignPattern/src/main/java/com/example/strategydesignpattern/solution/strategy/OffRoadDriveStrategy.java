@@ -4,6 +4,6 @@ public class OffRoadDriveStrategy implements DriveStrategy{
 
     @Override
     public void drive() {
-            System.out.println(this.getClass().getSimpleName() + " has Normal Drive Capability");
+            System.out.println(this.getClass().getSimpleName() + " has OffRoad Drive Capability");
     }
 }

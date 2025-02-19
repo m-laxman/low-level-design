@@ -3,7 +3,7 @@ package com.example.strategydesignpattern.solution;
 import com.example.strategydesignpattern.solution.strategy.OffRoadDriveStrategy;
 
 public class SportUtilityVehicle extends Vehicle {
-    SportUtilityVehicle() {
+    public SportUtilityVehicle() {
         super(new OffRoadDriveStrategy());
     }
 }
