@@ -1,6 +1,6 @@
 /*
     Liskov Substitution principle - The program should support multiple children
-    objects of the parents i.e when you substiture child of parent, the program
+    objects of the parents i.e when you substitute child of parent, the program
     should not break.
 
     Parent p1 = new Child1()
